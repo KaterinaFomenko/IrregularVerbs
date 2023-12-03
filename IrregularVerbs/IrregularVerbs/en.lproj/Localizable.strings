@@ -6,7 +6,12 @@
   
 */
 
-"Select Verbs" = "Select Verbs";
-"Train Verbs" = "Train Verbs";
-
-
+"Select verbs" = "Select verbs";
+"Train verbs" = "Train verbs";
+"Score:" = "Score:";
+"Training is over" = "Training is over";
+"Check" = "Check";
+"blow" = "blow";
+"draw" = "draw";
+"eat" = "eat";
+"fall" = "fall";
